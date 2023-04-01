@@ -1,4 +1,4 @@
-# SmartHealth-Oncology
+# SmartHealth-Oncology 🧪
 ```
 SmartHealth Oncology is a software solution that aims to improve the accuracy and efficiency 
 of cancer detection through the use of advanced technologies such as MRI scans. 
