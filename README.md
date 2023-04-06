@@ -11,3 +11,7 @@ in patients, enabling faster treatment and better patient outcomes. The system a
 for easy tracking and monitoring of patients throughout their treatment journey, making it 
 an essential tool for oncology departments and healthcare providers.
 ```
+
+<div float="right" width="800" height="700">
+  <img align="left" height="700" width="1000" src="Thumbnail.png">
+</div>
